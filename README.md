@@ -1,6 +1,5 @@
 # Salus is a Health Care Application developed as a part of Software Engineering Course offered by PES univeristy
 
-<a href="https://www.youtube.com/playlist?list=PLp0TENYyY8lHNMTAlrfVQKzAvQo3yzHYk">click here for Demo & Video tutorials</a>
 ## Technologies
 ```sbtshell
 Frontend: Flutter
